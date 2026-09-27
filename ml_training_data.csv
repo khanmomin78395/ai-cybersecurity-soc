@@ -1,0 +1,1201 @@
+protocol,port,bytes,failed_logins,label
+TCP,8080,528,0,Normal
+TCP,20,928,2,Port Scan
+UDP,53,17191,0,DNS Attack
+TCP,22,558,14,Brute Force
+TCP,443,4053,1,Normal
+UDP,80,1015,0,Normal
+TCP,80,538,0,Normal
+TCP,443,846,0,Port Scan
+TCP,22,174,8,Brute Force
+UDP,53,6823,0,DNS Attack
+UDP,8080,3655,1,Normal
+TCP,22,898,1,Port Scan
+UDP,53,16703,0,DNS Attack
+UDP,80,4616,0,Normal
+UDP,80,4526,1,Normal
+UDP,8080,4463,1,Normal
+TCP,443,2480,0,Normal
+TCP,22,931,5,Brute Force
+TCP,443,2755,0,Normal
+UDP,443,1484,0,Normal
+TCP,22,704,9,Brute Force
+UDP,8080,1550,1,Normal
+UDP,8080,4944,1,Normal
+UDP,80,4399,1,Normal
+TCP,22,998,8,Brute Force
+UDP,53,12725,0,DNS Attack
+TCP,80,2753,0,Normal
+TCP,22,372,18,Brute Force
+TCP,22,335,8,Brute Force
+UDP,80,1516,1,Normal
+TCP,22,930,10,Brute Force
+UDP,80,616,1,Normal
+UDP,8080,4288,0,Normal
+TCP,25,323,1,Port Scan
+TCP,21,1439,2,Port Scan
+UDP,53,17894,0,DNS Attack
+UDP,8080,1228,0,Normal
+UDP,443,3996,1,Normal
+TCP,22,878,10,Brute Force
+TCP,80,2948,1,Normal
+TCP,443,1091,1,Normal
+TCP,22,185,16,Brute Force
+UDP,80,1213,1,Normal
+TCP,21,51,0,Port Scan
+TCP,80,4544,1,Normal
+TCP,22,688,8,Brute Force
+UDP,443,3674,1,Normal
+TCP,22,265,11,Brute Force
+TCP,22,189,18,Brute Force
+UDP,443,4738,1,Normal
+TCP,21,936,0,Port Scan
+UDP,53,6895,0,DNS Attack
+TCP,22,366,2,Port Scan
+TCP,22,58,1,Port Scan
+TCP,22,172,11,Brute Force
+TCP,443,1489,0,Port Scan
+UDP,443,3889,1,Normal
+UDP,8080,750,0,Normal
+TCP,8080,707,1,Normal
+UDP,443,521,1,Normal
+TCP,8080,4609,0,Normal
+UDP,443,2634,1,Normal
+UDP,53,16148,0,DNS Attack
+TCP,80,1766,1,Normal
+TCP,8080,1249,1,Normal
+TCP,22,784,12,Brute Force
+TCP,8080,2856,0,Normal
+UDP,53,15527,0,DNS Attack
+TCP,443,2489,1,Normal
+TCP,22,711,0,Port Scan
+UDP,53,13503,0,DNS Attack
+TCP,8080,3471,1,Normal
+TCP,8080,852,0,Normal
+UDP,53,18643,0,DNS Attack
+UDP,53,17080,0,DNS Attack
+UDP,53,12005,0,DNS Attack
+UDP,53,19036,0,DNS Attack
+TCP,443,1456,1,Normal
+UDP,80,3279,1,Normal
+UDP,443,2212,0,Normal
+TCP,20,469,1,Port Scan
+TCP,22,216,6,Brute Force
+UDP,443,2882,1,Normal
+UDP,443,4890,1,Normal
+TCP,8080,4781,1,Normal
+TCP,8080,1029,1,Normal
+UDP,53,19356,0,DNS Attack
+TCP,22,836,7,Brute Force
+TCP,21,149,1,Port Scan
+TCP,22,698,14,Brute Force
+UDP,443,501,0,Normal
+UDP,53,15532,0,DNS Attack
+UDP,53,17197,0,DNS Attack
+TCP,22,652,18,Brute Force
+UDP,53,6525,0,DNS Attack
+TCP,22,927,17,Brute Force
+TCP,22,722,18,Brute Force
+UDP,8080,3655,1,Normal
+TCP,443,3716,0,Normal
+TCP,80,527,1,Normal
+TCP,80,4856,0,Normal
+TCP,22,548,12,Brute Force
+UDP,80,3874,0,Normal
+TCP,22,494,14,Brute Force
+TCP,22,679,1,Port Scan
+UDP,443,3391,1,Normal
+TCP,80,2860,1,Normal
+UDP,53,12029,0,DNS Attack
+UDP,80,3678,0,Normal
+TCP,80,2712,0,Normal
+TCP,8080,2242,1,Normal
+UDP,8080,1456,1,Normal
+TCP,21,383,1,Port Scan
+UDP,53,5968,0,DNS Attack
+TCP,22,610,9,Brute Force
+TCP,23,331,0,Port Scan
+UDP,53,11262,0,DNS Attack
+TCP,443,3032,0,Normal
+TCP,22,886,0,Port Scan
+TCP,22,790,18,Brute Force
+UDP,53,14227,0,DNS Attack
+TCP,21,325,0,Port Scan
+UDP,8080,625,1,Normal
+TCP,443,4368,0,Normal
+TCP,8080,3749,0,Normal
+UDP,443,4423,0,Normal
+UDP,53,11527,0,DNS Attack
+TCP,80,357,1,Port Scan
+UDP,8080,2533,0,Normal
+TCP,22,228,11,Brute Force
+UDP,80,2018,1,Normal
+TCP,443,2974,1,Normal
+UDP,443,4549,0,Normal
+UDP,8080,4452,1,Normal
+TCP,22,394,1,Port Scan
+UDP,80,3572,0,Normal
+TCP,22,386,18,Brute Force
+UDP,53,8124,0,DNS Attack
+UDP,80,2908,1,Normal
+TCP,80,1293,1,Port Scan
+TCP,21,753,1,Port Scan
+TCP,80,3732,0,Normal
+TCP,22,188,17,Brute Force
+TCP,80,3730,0,Normal
+TCP,443,3673,1,Normal
+UDP,443,4614,1,Normal
+TCP,22,581,6,Brute Force
+TCP,22,496,13,Brute Force
+TCP,8080,1888,0,Normal
+TCP,443,1321,0,Normal
+TCP,20,774,2,Port Scan
+TCP,443,2690,0,Normal
+TCP,80,1940,0,Normal
+TCP,22,835,5,Brute Force
+TCP,22,151,1,Port Scan
+TCP,8080,3515,1,Normal
+TCP,22,941,6,Brute Force
+UDP,53,7989,0,DNS Attack
+TCP,8080,4365,1,Normal
+UDP,53,7863,0,DNS Attack
+UDP,443,2447,0,Normal
+TCP,22,320,14,Brute Force
+TCP,22,764,16,Brute Force
+TCP,22,232,6,Brute Force
+UDP,80,3522,1,Normal
+UDP,53,19051,0,DNS Attack
+TCP,8080,1443,0,Normal
+UDP,443,3045,1,Normal
+TCP,8080,1504,0,Normal
+TCP,22,506,15,Brute Force
+TCP,22,435,19,Brute Force
+TCP,8080,1214,0,Normal
+TCP,22,882,8,Brute Force
+TCP,80,1463,1,Normal
+TCP,22,472,8,Brute Force
+UDP,8080,2192,0,Normal
+TCP,22,255,7,Brute Force
+UDP,443,2181,1,Normal
+TCP,20,638,1,Port Scan
+TCP,443,4030,0,Normal
+TCP,443,4154,0,Normal
+UDP,80,944,1,Normal
+TCP,23,1157,1,Port Scan
+TCP,443,1458,0,Port Scan
+UDP,8080,3438,0,Normal
+TCP,22,986,10,Brute Force
+UDP,53,12285,0,DNS Attack
+TCP,22,376,10,Brute Force
+TCP,22,319,13,Brute Force
+UDP,80,509,1,Normal
+UDP,80,2160,1,Normal
+TCP,20,1227,2,Port Scan
+TCP,25,99,2,Port Scan
+TCP,22,711,16,Brute Force
+TCP,443,645,0,Normal
+UDP,443,3540,0,Normal
+UDP,53,19577,0,DNS Attack
+TCP,25,736,0,Port Scan
+TCP,22,1181,1,Port Scan
+UDP,53,17960,0,DNS Attack
+TCP,22,730,9,Brute Force
+TCP,443,4003,0,Normal
+TCP,8080,1487,0,Normal
+TCP,22,699,0,Port Scan
+TCP,22,689,17,Brute Force
+TCP,80,1269,1,Normal
+TCP,8080,4229,0,Normal
+TCP,22,653,10,Brute Force
+TCP,8080,4508,0,Normal
+TCP,8080,3851,1,Normal
+TCP,22,401,7,Brute Force
+TCP,22,679,14,Brute Force
+TCP,22,201,14,Brute Force
+UDP,8080,4631,1,Normal
+UDP,53,19052,0,DNS Attack
+TCP,8080,572,1,Normal
+TCP,8080,2972,0,Normal
+UDP,53,5707,0,DNS Attack
+TCP,22,880,5,Brute Force
+UDP,53,8713,0,DNS Attack
+TCP,22,616,16,Brute Force
+TCP,22,638,9,Brute Force
+UDP,443,2235,1,Normal
+TCP,443,2928,1,Normal
+TCP,443,3274,1,Normal
+UDP,443,1732,0,Normal
+TCP,21,165,1,Port Scan
+UDP,443,4119,0,Normal
+TCP,25,336,2,Port Scan
+TCP,22,410,14,Brute Force
+UDP,53,7493,0,DNS Attack
+TCP,22,769,13,Brute Force
+TCP,22,154,16,Brute Force
+TCP,22,756,16,Brute Force
+UDP,8080,2179,1,Normal
+UDP,53,5236,0,DNS Attack
+TCP,8080,2040,1,Normal
+UDP,80,785,0,Normal
+TCP,22,183,10,Brute Force
+UDP,443,2266,1,Normal
+TCP,20,1062,1,Port Scan
+TCP,23,787,0,Port Scan
+TCP,80,530,2,Port Scan
+UDP,80,2101,0,Normal
+TCP,443,2996,0,Normal
+TCP,22,1253,1,Port Scan
+TCP,443,3767,1,Normal
+TCP,443,311,2,Port Scan
+TCP,80,192,1,Port Scan
+TCP,23,1174,1,Port Scan
+UDP,8080,1060,1,Normal
+UDP,443,2326,1,Normal
+TCP,21,183,2,Port Scan
+UDP,8080,572,0,Normal
+TCP,8080,4725,0,Normal
+TCP,22,565,18,Brute Force
+TCP,23,315,0,Port Scan
+TCP,22,892,17,Brute Force
+TCP,22,921,5,Brute Force
+UDP,8080,1633,1,Normal
+TCP,22,921,18,Brute Force
+TCP,25,948,2,Port Scan
+TCP,443,1548,0,Normal
+TCP,22,216,6,Brute Force
+TCP,25,1043,0,Port Scan
+UDP,53,18891,0,DNS Attack
+TCP,22,272,16,Brute Force
+UDP,53,12179,0,DNS Attack
+UDP,80,1042,1,Normal
+UDP,443,3536,1,Normal
+UDP,53,7494,0,DNS Attack
+UDP,53,17677,0,DNS Attack
+TCP,25,92,1,Port Scan
+TCP,21,1133,2,Port Scan
+TCP,22,566,19,Brute Force
+TCP,22,616,7,Brute Force
+UDP,53,15145,0,DNS Attack
+TCP,22,877,13,Brute Force
+UDP,53,9737,0,DNS Attack
+UDP,53,11525,0,DNS Attack
+TCP,22,739,0,Port Scan
+TCP,8080,956,0,Normal
+TCP,80,4744,0,Normal
+UDP,443,4065,0,Normal
+TCP,22,362,16,Brute Force
+TCP,8080,2648,0,Normal
+TCP,22,479,8,Brute Force
+TCP,22,320,8,Brute Force
+UDP,443,3802,1,Normal
+TCP,22,162,9,Brute Force
+UDP,8080,1267,0,Normal
+TCP,8080,2639,1,Normal
+UDP,53,6549,0,DNS Attack
+TCP,80,3145,0,Normal
+UDP,8080,4981,1,Normal
+TCP,22,830,9,Brute Force
+UDP,53,7293,0,DNS Attack
+UDP,8080,3208,1,Normal
+TCP,22,570,14,Brute Force
+UDP,8080,1400,0,Normal
+TCP,80,2509,1,Normal
+TCP,22,592,9,Brute Force
+TCP,22,792,6,Brute Force
+TCP,22,272,8,Brute Force
+UDP,53,13656,0,DNS Attack
+TCP,22,546,2,Port Scan
+TCP,22,802,9,Brute Force
+UDP,8080,3057,1,Normal
+UDP,53,13737,0,DNS Attack
+UDP,443,4304,1,Normal
+TCP,443,3101,0,Normal
+UDP,80,3172,0,Normal
+UDP,80,3691,0,Normal
+TCP,20,178,1,Port Scan
+UDP,53,5571,0,DNS Attack
+TCP,22,659,17,Brute Force
+TCP,443,741,1,Normal
+UDP,80,1214,0,Normal
+UDP,8080,2747,0,Normal
+TCP,80,4426,1,Normal
+TCP,22,272,7,Brute Force
+UDP,53,19916,0,DNS Attack
+TCP,22,515,16,Brute Force
+TCP,8080,2648,1,Normal
+TCP,25,1273,0,Port Scan
+UDP,53,17374,0,DNS Attack
+TCP,22,142,5,Brute Force
+TCP,22,720,7,Brute Force
+UDP,8080,3211,0,Normal
+TCP,80,4827,1,Normal
+TCP,443,2174,1,Normal
+UDP,53,17686,0,DNS Attack
+TCP,8080,3046,1,Normal
+TCP,8080,2989,0,Normal
+TCP,443,2537,1,Normal
+UDP,443,2073,0,Normal
+TCP,23,1410,2,Port Scan
+UDP,53,16911,0,DNS Attack
+TCP,22,867,12,Brute Force
+TCP,80,3509,0,Normal
+TCP,22,660,8,Brute Force
+TCP,22,481,8,Brute Force
+UDP,80,2716,0,Normal
+UDP,8080,4785,0,Normal
+UDP,443,2696,1,Normal
+TCP,22,751,15,Brute Force
+TCP,22,587,6,Brute Force
+UDP,80,2216,1,Normal
+TCP,443,1022,1,Normal
+TCP,22,882,5,Brute Force
+TCP,22,501,11,Brute Force
+TCP,20,537,2,Port Scan
+TCP,22,945,16,Brute Force
+UDP,80,4197,1,Normal
+UDP,443,3743,1,Normal
+TCP,22,534,18,Brute Force
+TCP,80,4566,1,Normal
+TCP,22,643,18,Brute Force
+TCP,443,88,0,Port Scan
+TCP,22,879,13,Brute Force
+TCP,443,2696,0,Normal
+TCP,22,760,18,Brute Force
+TCP,22,401,12,Brute Force
+TCP,22,337,11,Brute Force
+TCP,443,285,2,Port Scan
+UDP,443,1161,0,Normal
+TCP,20,583,0,Port Scan
+TCP,25,819,0,Port Scan
+TCP,8080,782,1,Normal
+TCP,8080,4582,0,Normal
+UDP,80,2825,0,Normal
+TCP,80,1876,1,Normal
+TCP,8080,2153,0,Normal
+TCP,22,122,17,Brute Force
+UDP,8080,1804,1,Normal
+TCP,8080,861,1,Normal
+UDP,53,8727,0,DNS Attack
+UDP,80,1784,0,Normal
+UDP,53,5448,0,DNS Attack
+UDP,8080,2355,1,Normal
+UDP,8080,3020,1,Normal
+TCP,22,504,18,Brute Force
+TCP,22,330,15,Brute Force
+TCP,22,1139,0,Port Scan
+UDP,53,7159,0,DNS Attack
+UDP,53,10132,0,DNS Attack
+TCP,443,2781,1,Normal
+UDP,443,3583,0,Normal
+UDP,53,19285,0,DNS Attack
+UDP,53,6037,0,DNS Attack
+TCP,20,1491,0,Port Scan
+TCP,8080,4483,0,Normal
+TCP,8080,4395,0,Normal
+UDP,53,6124,0,DNS Attack
+UDP,8080,1904,1,Normal
+TCP,23,585,1,Port Scan
+TCP,22,1227,0,Port Scan
+UDP,80,2523,0,Normal
+UDP,53,15644,0,DNS Attack
+UDP,53,19537,0,DNS Attack
+UDP,443,4783,0,Normal
+TCP,25,1093,0,Port Scan
+TCP,22,218,11,Brute Force
+UDP,53,7563,0,DNS Attack
+TCP,443,4086,1,Normal
+TCP,25,385,1,Port Scan
+TCP,443,3083,1,Normal
+UDP,443,3759,1,Normal
+TCP,22,1392,1,Port Scan
+TCP,443,1163,0,Normal
+UDP,443,3474,1,Normal
+TCP,22,481,0,Port Scan
+TCP,23,1423,2,Port Scan
+TCP,22,212,11,Brute Force
+TCP,22,580,6,Brute Force
+TCP,80,3310,1,Normal
+TCP,8080,1519,1,Normal
+TCP,80,2948,1,Normal
+TCP,22,359,8,Brute Force
+UDP,53,19063,0,DNS Attack
+UDP,53,18358,0,DNS Attack
+UDP,53,7010,0,DNS Attack
+TCP,443,2625,1,Normal
+TCP,22,174,11,Brute Force
+TCP,443,3971,0,Normal
+TCP,22,604,8,Brute Force
+TCP,443,2597,0,Normal
+TCP,25,303,1,Port Scan
+TCP,443,4420,0,Normal
+TCP,8080,4486,1,Normal
+TCP,443,2503,0,Normal
+UDP,53,13895,0,DNS Attack
+TCP,22,360,8,Brute Force
+UDP,443,3831,1,Normal
+TCP,8080,3478,0,Normal
+UDP,53,7839,0,DNS Attack
+TCP,443,3356,1,Normal
+UDP,53,5685,0,DNS Attack
+UDP,53,19139,0,DNS Attack
+UDP,80,2119,1,Normal
+TCP,80,1931,1,Normal
+TCP,21,463,1,Port Scan
+UDP,8080,662,0,Normal
+UDP,443,1131,1,Normal
+UDP,53,16663,0,DNS Attack
+TCP,80,254,1,Port Scan
+TCP,23,890,0,Port Scan
+UDP,53,10347,0,DNS Attack
+UDP,8080,3143,1,Normal
+UDP,8080,1189,0,Normal
+UDP,53,19298,0,DNS Attack
+TCP,22,618,10,Brute Force
+TCP,8080,1171,1,Normal
+TCP,22,1221,2,Port Scan
+UDP,8080,1949,1,Normal
+TCP,22,591,12,Brute Force
+UDP,443,4760,1,Normal
+TCP,22,120,6,Brute Force
+TCP,8080,4170,1,Normal
+TCP,80,2438,0,Normal
+TCP,80,4979,1,Normal
+TCP,22,544,13,Brute Force
+UDP,53,11304,0,DNS Attack
+TCP,22,277,9,Brute Force
+TCP,23,944,1,Port Scan
+TCP,8080,1097,0,Normal
+TCP,80,2187,0,Normal
+TCP,25,1427,1,Port Scan
+TCP,80,4169,0,Normal
+TCP,20,1015,1,Port Scan
+UDP,443,4148,1,Normal
+TCP,25,71,0,Port Scan
+UDP,443,597,1,Normal
+TCP,22,686,2,Port Scan
+TCP,22,185,16,Brute Force
+TCP,443,1367,2,Port Scan
+UDP,8080,2227,0,Normal
+TCP,22,930,5,Brute Force
+TCP,443,326,1,Port Scan
+TCP,22,482,8,Brute Force
+TCP,22,977,8,Brute Force
+TCP,22,313,19,Brute Force
+TCP,22,475,12,Brute Force
+TCP,22,312,19,Brute Force
+TCP,22,825,8,Brute Force
+TCP,23,831,2,Port Scan
+TCP,80,2605,1,Normal
+UDP,80,2613,0,Normal
+TCP,80,1117,0,Port Scan
+TCP,21,1061,2,Port Scan
+TCP,22,873,11,Brute Force
+TCP,22,535,11,Brute Force
+TCP,8080,4902,0,Normal
+UDP,443,507,1,Normal
+TCP,22,607,16,Brute Force
+TCP,80,2785,1,Normal
+TCP,22,309,14,Brute Force
+UDP,443,3839,1,Normal
+TCP,443,897,2,Port Scan
+TCP,25,308,2,Port Scan
+TCP,22,725,15,Brute Force
+TCP,22,139,10,Brute Force
+TCP,80,1112,1,Normal
+UDP,53,19203,0,DNS Attack
+TCP,22,787,15,Brute Force
+TCP,443,3513,1,Normal
+TCP,80,593,0,Port Scan
+UDP,53,18835,0,DNS Attack
+TCP,22,863,2,Port Scan
+UDP,53,12183,0,DNS Attack
+TCP,22,228,19,Brute Force
+TCP,8080,4104,1,Normal
+TCP,25,1235,1,Port Scan
+TCP,21,296,2,Port Scan
+TCP,80,2900,1,Normal
+TCP,443,3569,0,Normal
+TCP,80,4047,0,Normal
+UDP,53,5264,0,DNS Attack
+TCP,23,695,2,Port Scan
+UDP,80,3490,1,Normal
+TCP,22,975,13,Brute Force
+TCP,443,1654,1,Normal
+TCP,23,1035,0,Port Scan
+UDP,53,11299,0,DNS Attack
+UDP,53,8831,0,DNS Attack
+TCP,22,317,18,Brute Force
+TCP,80,2198,1,Normal
+UDP,80,4933,1,Normal
+TCP,80,2826,1,Normal
+TCP,80,322,0,Port Scan
+UDP,53,11763,0,DNS Attack
+TCP,22,911,2,Port Scan
+TCP,22,980,0,Port Scan
+TCP,22,823,17,Brute Force
+UDP,53,19607,0,DNS Attack
+TCP,21,1139,2,Port Scan
+UDP,53,14127,0,DNS Attack
+UDP,8080,2458,1,Normal
+TCP,22,300,8,Brute Force
+UDP,80,4330,0,Normal
+TCP,443,565,1,Port Scan
+TCP,22,914,10,Brute Force
+TCP,8080,1836,0,Normal
+TCP,22,401,8,Brute Force
+TCP,22,753,8,Brute Force
+UDP,80,892,0,Normal
+UDP,80,2757,0,Normal
+TCP,22,836,10,Brute Force
+TCP,22,350,15,Brute Force
+UDP,53,7454,0,DNS Attack
+TCP,22,542,15,Brute Force
+TCP,21,937,1,Port Scan
+TCP,22,649,18,Brute Force
+TCP,22,711,9,Brute Force
+TCP,80,645,0,Port Scan
+TCP,443,4749,1,Normal
+TCP,443,2467,0,Normal
+TCP,443,3446,1,Normal
+UDP,53,10394,0,DNS Attack
+TCP,22,812,16,Brute Force
+UDP,53,10075,0,DNS Attack
+TCP,8080,4289,0,Normal
+TCP,8080,2031,0,Normal
+TCP,443,1643,1,Normal
+TCP,80,3223,1,Normal
+TCP,22,564,18,Brute Force
+TCP,80,3947,1,Normal
+TCP,443,2262,0,Normal
+TCP,22,383,1,Port Scan
+TCP,8080,567,1,Normal
+TCP,22,875,6,Brute Force
+UDP,53,12804,0,DNS Attack
+UDP,443,4508,1,Normal
+TCP,22,226,19,Brute Force
+TCP,443,1089,0,Port Scan
+TCP,80,930,1,Port Scan
+UDP,8080,1278,1,Normal
+TCP,80,710,0,Port Scan
+TCP,22,403,8,Brute Force
+TCP,8080,2544,0,Normal
+TCP,22,544,13,Brute Force
+TCP,23,1108,0,Port Scan
+TCP,22,581,12,Brute Force
+UDP,80,842,0,Normal
+TCP,22,523,16,Brute Force
+UDP,443,1026,0,Normal
+TCP,443,905,1,Normal
+TCP,8080,2073,1,Normal
+TCP,80,4774,1,Normal
+TCP,8080,2895,1,Normal
+UDP,443,1078,1,Normal
+TCP,22,591,6,Brute Force
+UDP,443,2894,0,Normal
+TCP,80,1610,1,Normal
+TCP,80,263,0,Port Scan
+TCP,22,821,5,Brute Force
+TCP,22,672,16,Brute Force
+UDP,443,4878,1,Normal
+TCP,443,2640,0,Normal
+TCP,8080,641,0,Normal
+UDP,80,2596,1,Normal
+TCP,443,1659,0,Normal
+UDP,80,840,0,Normal
+TCP,443,2929,0,Normal
+TCP,80,1355,0,Normal
+TCP,22,918,15,Brute Force
+TCP,8080,3612,0,Normal
+TCP,8080,2017,0,Normal
+TCP,22,432,19,Brute Force
+TCP,22,657,17,Brute Force
+TCP,8080,3903,1,Normal
+UDP,53,17743,0,DNS Attack
+TCP,22,208,16,Brute Force
+TCP,80,3872,1,Normal
+TCP,443,1037,1,Port Scan
+TCP,25,569,0,Port Scan
+TCP,443,4241,0,Normal
+TCP,8080,4260,0,Normal
+UDP,53,6875,0,DNS Attack
+UDP,53,11993,0,DNS Attack
+UDP,443,1489,0,Normal
+TCP,443,2274,1,Normal
+UDP,80,4308,1,Normal
+TCP,22,477,7,Brute Force
+TCP,22,754,13,Brute Force
+TCP,443,4368,0,Normal
+TCP,22,301,6,Brute Force
+UDP,53,6842,0,DNS Attack
+TCP,80,1409,1,Normal
+TCP,443,1270,1,Normal
+UDP,53,15693,0,DNS Attack
+TCP,22,678,1,Port Scan
+TCP,22,704,10,Brute Force
+TCP,22,486,18,Brute Force
+UDP,443,4508,1,Normal
+UDP,8080,2782,0,Normal
+TCP,22,410,17,Brute Force
+TCP,443,1736,1,Normal
+TCP,8080,4818,0,Normal
+TCP,80,2319,0,Normal
+UDP,8080,3158,0,Normal
+TCP,80,4520,1,Normal
+UDP,443,3759,1,Normal
+UDP,8080,2742,1,Normal
+UDP,8080,3634,0,Normal
+TCP,22,609,1,Port Scan
+TCP,22,924,10,Brute Force
+TCP,22,711,16,Brute Force
+UDP,53,9000,0,DNS Attack
+TCP,22,778,6,Brute Force
+UDP,80,506,1,Normal
+TCP,22,520,12,Brute Force
+TCP,22,932,5,Brute Force
+UDP,53,7606,0,DNS Attack
+UDP,8080,3773,1,Normal
+UDP,8080,3554,0,Normal
+TCP,443,3428,1,Normal
+UDP,80,1429,1,Normal
+TCP,22,727,12,Brute Force
+TCP,22,303,10,Brute Force
+TCP,8080,2400,1,Normal
+TCP,25,975,2,Port Scan
+TCP,22,678,15,Brute Force
+TCP,443,1678,1,Normal
+UDP,8080,1757,0,Normal
+UDP,443,1410,0,Normal
+UDP,443,2669,0,Normal
+TCP,443,623,0,Normal
+TCP,8080,1285,1,Normal
+TCP,80,1296,0,Normal
+TCP,8080,2436,0,Normal
+TCP,80,117,0,Port Scan
+TCP,80,2852,0,Normal
+TCP,22,773,17,Brute Force
+UDP,80,2890,0,Normal
+TCP,22,1427,0,Port Scan
+TCP,443,840,1,Normal
+TCP,80,799,0,Normal
+TCP,443,885,2,Port Scan
+TCP,20,1353,0,Port Scan
+UDP,53,11626,0,DNS Attack
+TCP,8080,2686,1,Normal
+TCP,80,3670,1,Normal
+TCP,22,949,12,Brute Force
+TCP,80,811,2,Port Scan
+TCP,22,264,11,Brute Force
+TCP,22,952,12,Brute Force
+UDP,80,1156,0,Normal
+UDP,53,15403,0,DNS Attack
+UDP,8080,2546,1,Normal
+TCP,80,766,1,Normal
+TCP,8080,3711,1,Normal
+TCP,22,760,10,Brute Force
+TCP,8080,975,0,Normal
+TCP,80,1057,1,Normal
+TCP,22,623,10,Brute Force
+TCP,8080,2694,1,Normal
+TCP,22,403,16,Brute Force
+UDP,443,2110,0,Normal
+TCP,22,315,11,Brute Force
+TCP,22,498,15,Brute Force
+TCP,80,4325,0,Normal
+TCP,80,4302,1,Normal
+UDP,8080,4322,1,Normal
+TCP,80,4758,1,Normal
+TCP,443,1402,0,Port Scan
+TCP,80,4435,1,Normal
+UDP,53,19482,0,DNS Attack
+TCP,443,2990,0,Normal
+TCP,22,112,19,Brute Force
+UDP,53,12661,0,DNS Attack
+TCP,22,800,19,Brute Force
+TCP,22,819,6,Brute Force
+UDP,443,3920,1,Normal
+TCP,8080,4137,1,Normal
+TCP,21,369,1,Port Scan
+UDP,53,5276,0,DNS Attack
+TCP,23,243,0,Port Scan
+UDP,8080,1195,1,Normal
+UDP,53,9152,0,DNS Attack
+TCP,80,1376,2,Port Scan
+TCP,443,2811,1,Normal
+TCP,8080,1041,0,Normal
+UDP,53,17866,0,DNS Attack
+TCP,22,164,8,Brute Force
+UDP,53,5024,0,DNS Attack
+TCP,80,3458,0,Normal
+UDP,53,9236,0,DNS Attack
+UDP,80,2735,1,Normal
+TCP,8080,756,1,Normal
+TCP,443,3675,0,Normal
+UDP,53,16528,0,DNS Attack
+TCP,22,901,18,Brute Force
+TCP,22,483,8,Brute Force
+UDP,8080,1881,0,Normal
+TCP,22,959,0,Port Scan
+TCP,443,2592,0,Normal
+UDP,53,7130,0,DNS Attack
+TCP,443,2922,1,Normal
+UDP,443,1997,0,Normal
+TCP,22,283,19,Brute Force
+TCP,443,2842,0,Normal
+UDP,53,7951,0,DNS Attack
+TCP,22,314,18,Brute Force
+UDP,443,1550,1,Normal
+TCP,25,1304,0,Port Scan
+TCP,80,936,0,Normal
+TCP,22,632,7,Brute Force
+TCP,25,1386,0,Port Scan
+TCP,22,825,19,Brute Force
+TCP,8080,2089,1,Normal
+TCP,23,209,1,Port Scan
+TCP,22,113,6,Brute Force
+UDP,443,1511,0,Normal
+UDP,8080,2807,0,Normal
+UDP,53,12226,0,DNS Attack
+TCP,22,570,12,Brute Force
+TCP,22,565,16,Brute Force
+TCP,443,1363,1,Port Scan
+UDP,53,12927,0,DNS Attack
+UDP,8080,1764,1,Normal
+TCP,443,2309,1,Normal
+UDP,443,3914,1,Normal
+UDP,53,14009,0,DNS Attack
+UDP,80,2937,0,Normal
+TCP,22,988,17,Brute Force
+UDP,53,13859,0,DNS Attack
+TCP,22,682,0,Port Scan
+TCP,8080,4732,0,Normal
+UDP,53,10793,0,DNS Attack
+UDP,443,1318,0,Normal
+UDP,53,14298,0,DNS Attack
+TCP,443,3171,1,Normal
+UDP,8080,3992,0,Normal
+UDP,53,13662,0,DNS Attack
+UDP,80,4399,0,Normal
+TCP,8080,4618,0,Normal
+UDP,53,17180,0,DNS Attack
+UDP,53,5234,0,DNS Attack
+TCP,22,112,9,Brute Force
+TCP,22,635,16,Brute Force
+TCP,22,622,5,Brute Force
+UDP,8080,2129,0,Normal
+TCP,8080,1816,1,Normal
+TCP,80,3087,1,Normal
+TCP,20,1428,2,Port Scan
+TCP,22,595,6,Brute Force
+UDP,443,726,1,Normal
+TCP,22,972,16,Brute Force
+TCP,443,1086,1,Port Scan
+TCP,80,2578,1,Normal
+TCP,22,627,13,Brute Force
+TCP,22,428,10,Brute Force
+TCP,22,558,10,Brute Force
+UDP,443,2516,1,Normal
+TCP,25,1246,0,Port Scan
+TCP,21,825,2,Port Scan
+TCP,22,903,6,Brute Force
+TCP,22,102,16,Brute Force
+TCP,80,989,0,Port Scan
+UDP,53,5539,0,DNS Attack
+UDP,443,1961,0,Normal
+TCP,22,455,9,Brute Force
+TCP,22,351,15,Brute Force
+TCP,80,2596,1,Normal
+UDP,53,15293,0,DNS Attack
+TCP,21,614,2,Port Scan
+TCP,25,607,0,Port Scan
+TCP,22,776,10,Brute Force
+UDP,443,2505,0,Normal
+TCP,23,447,1,Port Scan
+UDP,53,5674,0,DNS Attack
+TCP,8080,2658,1,Normal
+TCP,20,1255,0,Port Scan
+TCP,22,458,1,Port Scan
+TCP,22,287,14,Brute Force
+TCP,22,329,5,Brute Force
+UDP,8080,3727,1,Normal
+TCP,80,2651,1,Normal
+UDP,8080,4264,1,Normal
+UDP,53,10818,0,DNS Attack
+TCP,443,3292,1,Normal
+TCP,443,3962,1,Normal
+UDP,80,532,0,Normal
+TCP,22,618,8,Brute Force
+TCP,20,61,2,Port Scan
+TCP,80,4218,1,Normal
+TCP,8080,2707,0,Normal
+UDP,53,11919,0,DNS Attack
+TCP,22,324,11,Brute Force
+TCP,80,3785,0,Normal
+TCP,22,743,12,Brute Force
+TCP,80,988,0,Normal
+UDP,443,3776,0,Normal
+TCP,22,223,11,Brute Force
+UDP,443,1015,1,Normal
+TCP,20,680,0,Port Scan
+UDP,443,3902,0,Normal
+TCP,22,899,16,Brute Force
+TCP,22,377,13,Brute Force
+TCP,8080,3770,1,Normal
+TCP,22,540,14,Brute Force
+TCP,443,960,0,Normal
+TCP,23,1056,2,Port Scan
+UDP,8080,990,0,Normal
+TCP,8080,3673,1,Normal
+UDP,80,3106,0,Normal
+TCP,20,735,1,Port Scan
+TCP,22,893,5,Brute Force
+TCP,22,981,9,Brute Force
+UDP,80,2795,1,Normal
+UDP,53,6696,0,DNS Attack
+UDP,443,2446,1,Normal
+TCP,443,785,0,Port Scan
+UDP,80,3000,1,Normal
+UDP,443,3145,1,Normal
+UDP,443,2849,0,Normal
+TCP,22,322,18,Brute Force
+TCP,22,102,18,Brute Force
+UDP,80,3067,1,Normal
+UDP,53,5492,0,DNS Attack
+TCP,22,334,16,Brute Force
+TCP,22,260,5,Brute Force
+UDP,8080,2880,1,Normal
+TCP,8080,4063,1,Normal
+TCP,22,780,8,Brute Force
+TCP,8080,2993,0,Normal
+UDP,8080,856,0,Normal
+TCP,21,1092,2,Port Scan
+TCP,443,919,1,Port Scan
+UDP,443,1783,1,Normal
+TCP,80,4142,0,Normal
+TCP,22,453,5,Brute Force
+TCP,8080,744,1,Normal
+UDP,443,1019,0,Normal
+UDP,443,3923,1,Normal
+UDP,53,17782,0,DNS Attack
+TCP,22,705,5,Brute Force
+TCP,8080,4782,1,Normal
+UDP,443,585,1,Normal
+TCP,80,4119,0,Normal
+TCP,22,611,16,Brute Force
+UDP,8080,2718,0,Normal
+UDP,443,2869,0,Normal
+UDP,53,15695,0,DNS Attack
+UDP,8080,3337,0,Normal
+TCP,22,254,13,Brute Force
+TCP,8080,4447,0,Normal
+TCP,443,3287,0,Normal
+UDP,8080,1166,1,Normal
+UDP,53,18810,0,DNS Attack
+TCP,20,650,0,Port Scan
+UDP,53,9422,0,DNS Attack
+TCP,8080,1479,1,Normal
+TCP,22,728,18,Brute Force
+TCP,8080,4196,0,Normal
+TCP,443,3265,0,Normal
+TCP,21,734,0,Port Scan
+UDP,80,3662,1,Normal
+UDP,80,2661,0,Normal
+UDP,443,4199,0,Normal
+UDP,8080,4286,0,Normal
+TCP,80,2413,0,Normal
+TCP,22,500,10,Brute Force
+UDP,80,2460,0,Normal
+TCP,23,758,2,Port Scan
+UDP,53,7871,0,DNS Attack
+TCP,80,3135,1,Normal
+TCP,8080,1632,1,Normal
+TCP,8080,2538,0,Normal
+TCP,22,253,12,Brute Force
+TCP,80,2679,0,Normal
+TCP,22,973,8,Brute Force
+TCP,443,3175,0,Normal
+TCP,22,320,12,Brute Force
+TCP,8080,4707,0,Normal
+UDP,443,4076,0,Normal
+TCP,23,320,2,Port Scan
+UDP,53,7468,0,DNS Attack
+TCP,8080,1890,1,Normal
+TCP,22,89,2,Port Scan
+TCP,22,288,8,Brute Force
+TCP,21,585,1,Port Scan
+UDP,53,8075,0,DNS Attack
+TCP,443,2980,0,Normal
+TCP,8080,3424,0,Normal
+TCP,443,4776,1,Normal
+TCP,22,780,13,Brute Force
+TCP,22,608,13,Brute Force
+UDP,443,1880,0,Normal
+UDP,8080,3656,0,Normal
+UDP,53,9307,0,DNS Attack
+TCP,22,433,2,Port Scan
+TCP,22,441,19,Brute Force
+UDP,443,4582,0,Normal
+UDP,8080,3740,0,Normal
+TCP,8080,2349,1,Normal
+TCP,80,751,0,Port Scan
+TCP,8080,705,0,Normal
+TCP,22,481,15,Brute Force
+TCP,443,4311,0,Normal
+TCP,22,627,12,Brute Force
+TCP,22,121,9,Brute Force
+UDP,53,13501,0,DNS Attack
+TCP,80,771,0,Normal
+TCP,8080,3773,1,Normal
+TCP,443,4849,0,Normal
+TCP,20,59,1,Port Scan
+TCP,20,834,2,Port Scan
+TCP,22,252,15,Brute Force
+TCP,22,968,10,Brute Force
+TCP,22,852,5,Brute Force
+TCP,80,3110,1,Normal
+TCP,20,538,2,Port Scan
+UDP,443,4699,0,Normal
+UDP,8080,2414,1,Normal
+TCP,22,100,19,Brute Force
+TCP,443,666,0,Normal
+UDP,80,4164,1,Normal
+UDP,53,18050,0,DNS Attack
+TCP,80,2620,0,Normal
+TCP,22,681,10,Brute Force
+UDP,80,2038,0,Normal
+TCP,80,1599,1,Normal
+TCP,80,2730,1,Normal
+TCP,80,1997,0,Normal
+UDP,53,8171,0,DNS Attack
+UDP,443,868,0,Normal
+TCP,22,142,8,Brute Force
+TCP,22,518,12,Brute Force
+TCP,22,177,14,Brute Force
+TCP,20,1343,1,Port Scan
+UDP,53,9796,0,DNS Attack
+TCP,8080,3472,0,Normal
+UDP,80,1492,0,Normal
+UDP,8080,2740,0,Normal
+TCP,22,382,10,Brute Force
+UDP,80,2355,1,Normal
+TCP,22,582,7,Brute Force
+TCP,22,815,15,Brute Force
+TCP,443,4231,0,Normal
+UDP,53,5451,0,DNS Attack
+UDP,8080,2037,1,Normal
+UDP,8080,4908,0,Normal
+UDP,53,18127,0,DNS Attack
+TCP,22,618,18,Brute Force
+TCP,22,474,7,Brute Force
+UDP,8080,3750,1,Normal
+UDP,80,612,1,Normal
+UDP,53,8197,0,DNS Attack
+UDP,53,15570,0,DNS Attack
+TCP,22,382,16,Brute Force
+TCP,443,3668,0,Normal
+TCP,22,668,16,Brute Force
+UDP,80,1387,0,Normal
+TCP,443,549,1,Normal
+TCP,20,68,1,Port Scan
+TCP,8080,1973,1,Normal
+TCP,443,501,0,Port Scan
+TCP,443,2938,0,Normal
+TCP,443,3974,1,Normal
+TCP,22,921,17,Brute Force
+TCP,23,1102,1,Port Scan
+UDP,53,7761,0,DNS Attack
+UDP,53,9456,0,DNS Attack
+TCP,22,668,12,Brute Force
+TCP,22,317,18,Brute Force
+UDP,53,10788,0,DNS Attack
+UDP,80,2869,1,Normal
+TCP,22,669,9,Brute Force
+UDP,443,2488,1,Normal
+TCP,21,474,0,Port Scan
+TCP,22,1277,2,Port Scan
+TCP,8080,707,1,Normal
+UDP,53,10755,0,DNS Attack
+TCP,21,215,1,Port Scan
+UDP,8080,3866,0,Normal
+TCP,22,768,19,Brute Force
+TCP,80,69,2,Port Scan
+TCP,443,2695,1,Normal
+TCP,22,502,8,Brute Force
+TCP,8080,3349,1,Normal
+TCP,22,1207,2,Port Scan
+TCP,22,122,0,Port Scan
+TCP,80,794,2,Port Scan
+TCP,22,199,15,Brute Force
+TCP,23,307,0,Port Scan
+UDP,53,12619,0,DNS Attack
+TCP,8080,1677,0,Normal
+UDP,53,11409,0,DNS Attack
+TCP,8080,3494,1,Normal
+TCP,22,990,12,Brute Force
+UDP,443,2961,0,Normal
+TCP,80,3428,0,Normal
+UDP,8080,1316,0,Normal
+TCP,22,263,7,Brute Force
+TCP,443,3991,0,Normal
+UDP,53,7093,0,DNS Attack
+UDP,443,675,1,Normal
+TCP,443,869,0,Normal
+TCP,22,153,6,Brute Force
+UDP,53,8490,0,DNS Attack
+UDP,8080,1864,0,Normal
+TCP,22,508,16,Brute Force
+TCP,443,1344,0,Port Scan
+TCP,22,478,13,Brute Force
+TCP,443,3462,1,Normal
+UDP,80,4638,0,Normal
+TCP,20,219,1,Port Scan
+UDP,80,4251,0,Normal
+TCP,20,806,2,Port Scan
+TCP,22,210,8,Brute Force
+TCP,443,1073,2,Port Scan
+UDP,53,15976,0,DNS Attack
+TCP,20,1439,0,Port Scan
+TCP,443,2750,0,Normal
+UDP,53,10041,0,DNS Attack
+TCP,443,1837,0,Normal
+TCP,22,430,6,Brute Force
+TCP,22,705,11,Brute Force
+TCP,21,1411,1,Port Scan
+TCP,443,324,2,Port Scan
+UDP,53,15558,0,DNS Attack
+TCP,443,2934,1,Normal
+UDP,80,1514,1,Normal
+UDP,53,5602,0,DNS Attack
+UDP,8080,993,1,Normal
+TCP,80,3056,1,Normal
+TCP,80,794,0,Normal
+UDP,80,2217,0,Normal
+TCP,443,3758,0,Normal
+UDP,80,4141,0,Normal
+TCP,443,2541,1,Normal
+UDP,443,1858,1,Normal
+TCP,21,112,1,Port Scan
+UDP,8080,4269,0,Normal
+TCP,443,4851,0,Normal
+TCP,22,672,15,Brute Force
+UDP,8080,1322,0,Normal
+TCP,80,983,1,Port Scan
+UDP,53,13312,0,DNS Attack
+TCP,443,1424,0,Normal
+TCP,443,2568,1,Normal
+TCP,443,1012,0,Port Scan
+TCP,443,852,0,Port Scan
+TCP,22,228,8,Brute Force
+TCP,22,239,16,Brute Force
+TCP,443,4106,0,Normal
+TCP,25,110,2,Port Scan
+UDP,80,3091,0,Normal
+TCP,25,671,1,Port Scan
+TCP,22,276,14,Brute Force
+TCP,22,413,11,Brute Force
+TCP,22,947,5,Brute Force
+TCP,80,636,1,Normal
+TCP,80,3094,0,Normal
+UDP,80,3177,0,Normal
+UDP,8080,3012,1,Normal
+UDP,53,19806,0,DNS Attack
+UDP,8080,3442,1,Normal
+TCP,80,3810,0,Normal
+TCP,443,702,1,Port Scan
+TCP,23,544,2,Port Scan
+TCP,25,1474,2,Port Scan
+TCP,25,499,0,Port Scan
+UDP,443,4884,1,Normal
+TCP,443,998,1,Normal
+UDP,53,9729,0,DNS Attack
+TCP,22,749,19,Brute Force
+UDP,8080,3479,1,Normal
+UDP,53,14928,0,DNS Attack
+UDP,8080,2753,0,Normal
+TCP,8080,646,1,Normal
+TCP,22,481,16,Brute Force
+TCP,22,763,12,Brute Force
+TCP,22,462,17,Brute Force
+TCP,8080,3860,1,Normal
+TCP,20,68,2,Port Scan
+UDP,8080,948,0,Normal
+UDP,443,4736,1,Normal
+TCP,20,979,0,Port Scan
+TCP,443,254,0,Port Scan
+TCP,25,881,0,Port Scan
+UDP,53,16164,0,DNS Attack
+TCP,22,394,12,Brute Force
+TCP,22,381,5,Brute Force
+TCP,80,1848,1,Normal
+TCP,8080,1316,0,Normal
+TCP,80,2276,1,Normal
+TCP,8080,750,0,Normal
+UDP,53,12374,0,DNS Attack
+TCP,22,640,9,Brute Force
+TCP,443,1667,0,Normal
+UDP,80,3179,1,Normal
+TCP,22,932,17,Brute Force
+TCP,443,2972,0,Normal
+TCP,23,996,1,Port Scan
+TCP,22,844,11,Brute Force
+TCP,22,817,17,Brute Force
+TCP,22,438,7,Brute Force
+UDP,53,10057,0,DNS Attack
+TCP,80,4734,0,Normal
+TCP,22,641,13,Brute Force
+TCP,22,331,6,Brute Force
+TCP,443,4307,1,Normal
+TCP,80,567,2,Port Scan
+UDP,53,11328,0,DNS Attack
+TCP,22,971,8,Brute Force
+TCP,443,781,0,Port Scan
+TCP,20,734,1,Port Scan
+UDP,53,11476,0,DNS Attack
+UDP,53,7604,0,DNS Attack
+TCP,22,434,8,Brute Force
+TCP,22,320,15,Brute Force
+TCP,22,845,17,Brute Force
+UDP,53,15562,0,DNS Attack
+TCP,8080,705,1,Normal
+TCP,22,1000,1,Port Scan
+TCP,23,892,1,Port Scan
+TCP,8080,3806,1,Normal
+UDP,53,14277,0,DNS Attack
+UDP,80,1170,1,Normal
+UDP,80,4075,0,Normal
+UDP,53,10167,0,DNS Attack
+TCP,80,749,1,Normal
+UDP,53,6892,0,DNS Attack
+UDP,53,8439,0,DNS Attack
+TCP,22,528,18,Brute Force
+TCP,443,4071,0,Normal
+TCP,80,543,0,Normal
+TCP,22,670,11,Brute Force
+TCP,23,1338,2,Port Scan
+TCP,22,319,10,Brute Force
+TCP,443,2948,1,Normal
+TCP,22,826,19,Brute Force
+TCP,22,998,9,Brute Force
+UDP,53,18145,0,DNS Attack
+UDP,443,4056,0,Normal
+UDP,53,14685,0,DNS Attack
+TCP,22,673,14,Brute Force
+TCP,23,1342,2,Port Scan
+UDP,8080,1454,1,Normal
+TCP,22,705,18,Brute Force
+TCP,23,699,2,Port Scan
+TCP,80,4301,1,Normal
+TCP,21,445,2,Port Scan
+TCP,22,957,11,Brute Force
+UDP,443,883,1,Normal
+UDP,80,4834,0,Normal
+UDP,53,7725,0,DNS Attack
+TCP,443,4751,0,Normal
+TCP,22,477,18,Brute Force
+TCP,8080,3415,0,Normal
+TCP,22,889,14,Brute Force
+TCP,80,1474,0,Normal
+TCP,23,936,1,Port Scan
+TCP,23,389,0,Port Scan
+TCP,23,441,0,Port Scan
+UDP,53,8748,0,DNS Attack
+TCP,443,1593,0,Normal
